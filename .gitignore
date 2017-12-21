@@ -141,6 +141,7 @@ publish/
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
+*.jfm
 
 # NuGet Packages
 *.nupkg
@@ -234,3 +235,4 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+Work.Database/Work.Database.jfm
