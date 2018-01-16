@@ -73,5 +73,11 @@
     <Build Include="dbo\Tables\AspNetUserClaims.sql" />
     <Build Include="dbo\Tables\AspNetUserLogins.sql" />
     <Build Include="dbo\Tables\__MigrationHistory.sql" />
+    <Build Include="dbo\Tables\Request.sql" />
+    <Build Include="dbo\Tables\Work.sql" />
+    <Build Include="dbo\Tables\Task.sql" />
+    <Build Include="dbo\Tables\Material.sql" />
+    <Build Include="dbo\Tables\Tool.sql" />
+    <Build Include="dbo\Tables\Specification.sql" />
   </ItemGroup>
 </Project>
